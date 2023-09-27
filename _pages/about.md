@@ -16,6 +16,8 @@ My research interests are at the intersection of control, optimization, and rein
 
 During my PhD, I performed multiple internships at [Electric Power Engineers, LLC](https://epeconsulting.com/) with a particular focus on the development of a  general deep learning framework for load forecasting across different timescales and regions: the software tool showed remarkable accuracy in forecasting on time horizons ranging from a few hours to a month, as well as across different distribution networks.
 
+I received the [JN Tata Endowment](https://jntataendowment.org/) to pursue graduate studies in the US.
+
 **Research Interests**
 
 * Smart Electricity Grids
