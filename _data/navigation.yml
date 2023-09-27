@@ -3,6 +3,9 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Bio and CV"
+    url: files/Mathias_Joel_Fall2023_Resume.pdf
+
   #- title: "Talks"
   #  url: /talks/    
 
@@ -15,8 +18,5 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
     
-  - title: "Bio and CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+  #- title: "Guide"
+  #  url: /markdown/
