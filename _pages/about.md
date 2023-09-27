@@ -17,7 +17,7 @@ During my PhD, I performed multiple internships at [Electric Power Engineers, LL
 
 Following the winter storm and the subsequent blackouts in Texas in February 2021, my colleagues and I wrote an [op-ed in Utility Dive](https://www.utilitydive.com/news/addressing-misconceptions-on-the-performance-of-the-energy-market-in-texas/598436/) warning against the blind application of real-time and surge pricing in the power grid.
 
-I received the [JN Tata Endowment](https://jntataendowment.org/) to pursue graduate studies in the US.
+# I received the [JN Tata Endowment](https://jntataendowment.org/) to pursue graduate studies in the US.
 
 **Research Interests**
 
