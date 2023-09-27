@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-**About**
 
 I am a postdoctoral researcher with the Department of Electrical, Computer, and Energy Engineering at Arizona State University, working with [Lalitha Sankar](https://sankar.engineering.asu.edu/) and [Oliver Kosut](https://sites.google.com/site/okosut/). I did my PhD at the University of Florida in beautiful Gainesville with [Sean Meyn](https://meyn.ece.ufl.edu/) on the distributed control of flexible loads for balancing the electricity grid: [Dissertation](https://www.proquest.com/openview/179b6a68f2dd8189cf62522c44153d0f/1?pq-origsite=gscholar&cbl=18750&diss=y)
 
