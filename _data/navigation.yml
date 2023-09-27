@@ -1,11 +1,11 @@
 # main links links
 main:
+  - title: "CV"
+    url: /files/Mathias_Joel_Fall2023_Resume_ext.pdf
+    
   - title: "Publications"
   #url: /publications/
     url: https://scholar.google.com/citations?user=gBZFKz0AAAAJ&hl=en
-
-  - title: "CV"
-    url: /files/Mathias_Joel_Fall2023_Resume_ext.pdf
 
   #- title: "Talks"
   #  url: /talks/    
