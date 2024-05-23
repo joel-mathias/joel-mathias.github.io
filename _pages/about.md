@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a postdoctoral researcher with the Department of Electrical, Computer, and Energy Engineering at Arizona State University, working with [Lalitha Sankar](https://sankar.engineering.asu.edu/) and [Oliver Kosut](https://sites.google.com/site/okosut/). I did my PhD at the University of Florida in beautiful Gainesville with [Sean Meyn](https://meyn.ece.ufl.edu/) on the distributed control of flexible loads for balancing the electricity grid: [Dissertation](https://www.proquest.com/openview/179b6a68f2dd8189cf62522c44153d0f/1?pq-origsite=gscholar&cbl=18750&diss=y)
+I am an electricity market design engineer III with Midcontinent Independent System Operator (MISO) in Carmel, Indiana. I was previously a postdoctoral researcher with the Department of Electrical, Computer, and Energy Engineering at Arizona State University in Tempe, Arizona, amidst the scenery of the Sonoran desert. I did my PhD at the University of Florida in beautiful Gainesville with [Sean Meyn](https://meyn.ece.ufl.edu/) on the distributed control of flexible loads for balancing the electricity grid: [Dissertation](https://www.proquest.com/openview/179b6a68f2dd8189cf62522c44153d0f/1?pq-origsite=gscholar&cbl=18750&diss=y)
 
 My research interests are at the intersection of control, optimization, and reinforcement learning, with an emphasis on applications to power systems. The range of technical topics includes deterministic reinforcement learning in continuous time, control of Markov processes, model predictive control, and numerical optimization. I am particularly interested in decision making across different timescales driven by forecast information for resource allocation in the electricity grid.
 
